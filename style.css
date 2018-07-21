@@ -129,8 +129,15 @@ body{
       height: 35px;
       margin: -5px 0  0 -42px;
   }
-	
-
+	 
+.pic{
+  width: 100%;
+  float: left;
+}
+.text{
+  width: 100%;
+  float: left;
+}
 
 
 
