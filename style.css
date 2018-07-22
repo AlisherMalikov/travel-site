@@ -131,12 +131,16 @@ body{
   }
 	 
 .pic{
-  width: 100%;
-  float: left;
+  
+  float: right;
 }
 .text{
-  width: 100%;
-  float: left;
+   
+    background-color: #DBECEE;
+    font-family: calibri;
+    text-align: center;
+    font-style: bolt;
+    
 }
 
 
