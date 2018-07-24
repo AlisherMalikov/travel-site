@@ -48,7 +48,7 @@ body{
     display: inline-block;
 }
 .menu{
-    list-style: none;
+  list-style: none;
   margin: 0;
   padding: 0;
   float: right;
@@ -131,7 +131,7 @@ body{
   }
 	 
 .pic{
-  
+  position: static;
   float: right;
 }
 .text{
@@ -142,9 +142,22 @@ body{
     font-style: bolt;
     
 }
+.moreinfo{
+  padding: 10px;
+  font-family: calibri;
+  color: #395DF8;
 
+}
+nav{
+  position: sticky;
+  top: 0px;
+  background-color: #DBECEE;
+  opacity: 0.85;
+  z-index: 10;
+}
+.navbar{
 
-
+}
 
 
 
